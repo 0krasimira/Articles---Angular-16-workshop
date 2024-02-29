@@ -35,6 +35,8 @@ readMore() : void{
   }else{
     this.descToShow = this.articleDesc.substring(0, this.articleDescLen)
   }
+  this.showHideBtn = true;
+  this.showReadMoreBtn = false
 }
 
 toggleImage() : void{
