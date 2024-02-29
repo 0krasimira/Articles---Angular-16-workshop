@@ -1,7 +1,7 @@
 const data = [
     {
         title: 'Best summer vacation places',
-        description: 'Plan a perfect getaway in a place where the sun shines all year. Explore the world\'s most pristine beaches, enjoy relaxed activities, and pamper yourself at the many wellness retreats. Check these amazing places and decide where your next vacation will be! Good luck',
+        description: 'Plan a perfect getaway in a place where the sun shines all year. Explore the world\'s most pristine beaches, enjoy relaxed activities, and pamper yourself at the many wellness retreats. Check these places and decide on your next vacation!',
         author: 'Vacation Vacationov',
         imageUrl: 'https://media.easemytrip.com/media/Blog/International/637867579316652136/637867579316652136hNPxy2.jpg'
     },
